@@ -13,3 +13,7 @@ Random: Shuffles the order of the players. Note: Using this button while pokemon
 Download: Outputs the team contents to the console (Ctrl+Shift+J on Google Chrome)
 
 Reset: Brings the pick back to Player 1, refills the Pokemon roster and empties all player rosters. Does not refresh the player order back to the original (refresh the program to restore player order).
+
+Screenshot1 is when the progam has freshly been open
+
+Screenshot2 had the Player Order shuffled and pokemon picked at random until nothing was left, then the results outputted to the console.
